@@ -46,6 +46,10 @@
           <option name="url" value="http://hukaihao@123.59.47.88/backend/upload-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hukaihao@123.59.47.88/backend/accounting-document-hub.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ws_work" />
