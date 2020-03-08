@@ -58,6 +58,10 @@
           <option name="url" value="http://hukaihao@123.59.47.88/backend/job-scheduler-for-css.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hukaihao@123.59.47.88/backend/css-account-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ws_work" />
