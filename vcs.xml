@@ -74,6 +74,14 @@
           <option name="url" value="http://hukaihao@123.59.47.88/ARCH/canal-datasync.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hukaihao@123.59.47.88/backend/product-sku-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hukaihao@123.59.47.88/backend/mms-osm-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ws_work" />
