@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/netty/netty.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/crazymaker/netty_redis_zookeeper_source_code.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ws_devin" />
