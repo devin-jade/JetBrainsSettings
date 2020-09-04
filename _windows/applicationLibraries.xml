@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="commons-logging-1.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/spring/commons-logging-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="spring-beans-5.2.8.RELEASE">
       <CLASSES>
         <root url="jar://$USER_HOME$/Desktop/spring/spring-5.2.8.RELEASE-dist/spring-framework-5.2.8.RELEASE/libs/spring-beans-5.2.8.RELEASE.jar!/" />
