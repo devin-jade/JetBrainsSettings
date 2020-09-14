@@ -138,6 +138,10 @@
           <option name="url" value="http://hukaihao@123.59.47.88/backend/ims-es-hub.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://123.59.47.88/fresh-backend/api-rest-fresh.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ws_work" />
