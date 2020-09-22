@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Listable" />
       <item value="This interface is implemented by objects that hold a number of bean definitions" />
       <item value="Customize the set of property sources with those appropriate for any standard * Java environment:" />
       <item value="false" />
@@ -9,8 +10,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
+        <entry key="CHINESE" value="4" />
         <entry key="ENGLISH" value="4" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
