@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eligible" />
+      <item value="instantiation" />
       <item value="resolve placeholders in embedded values such as annotation attributes" />
       <item value="resolve placeholders in alias target names and aliases as well." />
       <item value="Recursively process the configuration class and its superclass hierarchy." />
@@ -35,7 +37,6 @@
       <item value="Instantiate all remaining (non-lazy-init) singletons" />
       <item value="remaining" />
       <item value="processed" />
-      <item value="eligible" />
       <item value="Register bean processors that intercept bean creation" />
       <item value="Invoke factory processors registered with the context instance" />
       <item value="arbitrary" />
@@ -50,12 +51,11 @@
       <item value="Separate between BeanDefinitionRegistryPostProcessors that implement // PriorityOrdered, Ordered, and the rest" />
       <item value="Interface for registries that hold bean definitions" />
       <item value="regular" />
-      <item value="Typically implemented by BeanFactories that * internally work with the AbstractBeanDefinition hierarchy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
