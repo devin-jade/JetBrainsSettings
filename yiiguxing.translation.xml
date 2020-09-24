@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve placeholders in embedded values such as annotation attributes" />
+      <item value="resolve placeholders in alias target names and aliases as well." />
+      <item value="Recursively process the configuration class and its superclass hierarchy." />
+      <item value="Recursively" />
       <item value="meantime" />
       <item value="weaving" />
       <item value="Determine" />
@@ -38,7 +42,6 @@
       <item value="declaration" />
       <item value="deterministic" />
       <item value="Retrieve" />
-      <item value="Recursively" />
       <item value="Candidate" />
       <item value="Priority" />
       <item value="processor" />
@@ -48,14 +51,11 @@
       <item value="Interface for registries that hold bean definitions" />
       <item value="regular" />
       <item value="Typically implemented by BeanFactories that * internally work with the AbstractBeanDefinition hierarchy" />
-      <item value="hierarchy" />
-      <item value="internally" />
-      <item value="Typically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
