@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meantime" />
+      <item value="weaving" />
       <item value="Determine" />
       <item value="lite" />
       <item value="Separate" />
@@ -49,13 +51,11 @@
       <item value="hierarchy" />
       <item value="internally" />
       <item value="Typically" />
-      <item value="Listable" />
-      <item value="This interface is implemented by objects that hold a number of bean definitions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
