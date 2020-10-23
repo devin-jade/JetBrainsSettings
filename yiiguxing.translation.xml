@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Cache Can Increase Helper" />
+      <item value="eligible" />
+      <item value="instantiation" />
+      <item value="resolve placeholders in embedded values such as annotation attributes" />
+      <item value="resolve placeholders in alias target names and aliases as well." />
+      <item value="Recursively process the configuration class and its superclass hierarchy." />
+      <item value="Recursively" />
+      <item value="meantime" />
+      <item value="weaving" />
+      <item value="Determine" />
+      <item value="lite" />
+      <item value="Separate" />
+      <item value="plain" />
+      <item value="BeanFactory interface not registered as resolvable type in a plain factory" />
+      <item value="Resolvable" />
+      <item value="cyclic" />
+      <item value="Currently" />
+      <item value="Resource pattern matching available" />
+      <item value="obtain" />
+      <item value="internal" />
+      <item value="previously" />
+      <item value="Recursive invocation" />
+      <item value="创建分账文件任务开始:settlement Date" />
+      <item value="Obtain" />
+      <item value="Initialize" />
+      <item value="Wrapper" />
+      <item value="destroy Singletons" />
+      <item value="Singleton bean creation not allowed while singletons of this factory are in destruction" />
+      <item value="creation" />
+      <item value="assumably" />
+      <item value="manually" />
+      <item value="weaver" />
+      <item value="Participate in LiveBeansView MBean" />
+      <item value="Determine the raw name, resolving aliases to canonical names" />
+      <item value="Instantiate all remaining (non-lazy-init) singletons" />
+      <item value="remaining" />
+      <item value="processed" />
+      <item value="Register bean processors that intercept bean creation" />
+      <item value="Invoke factory processors registered with the context instance" />
+      <item value="arbitrary" />
+      <item value="declaration" />
+      <item value="deterministic" />
+      <item value="Retrieve" />
+      <item value="Candidate" />
+      <item value="Priority" />
+      <item value="processor" />
+      <item value="Finally, invoke all other BeanDefinitionRegistryPostProcessors until no further ones appear" />
+      <item value="Separate between BeanDefinitionRegistryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
+      <item value="Separate between BeanDefinitionRegistryPostProcessors that implement // PriorityOrdered, Ordered, and the rest" />
+      <item value="Interface for registries that hold bean definitions" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="FRENCH" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
