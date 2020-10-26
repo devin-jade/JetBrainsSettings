@@ -31,6 +31,22 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/devin-jade/algorithm-note.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/devin-jade/spring-note.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.101.213.88/bjmashibing/java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.101.213.88" />
+          <option name="userName" value="outlookhukaihao@outlook.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://hukaihao@123.59.47.88/backend/css-merchantservice-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
@@ -162,9 +178,13 @@
           <option name="url" value="http://39.101.213.88/lianpengju/lianpengju.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.101.213.88/inner/msb-dongbao-mall-parent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\ws_devin_learn" />
+    <option name="cloneParentDir" value="E:\ws_devin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
