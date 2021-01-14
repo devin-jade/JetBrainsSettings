@@ -210,6 +210,14 @@
           <option name="url" value="http://123.59.47.88/backend/fms-thirdparty-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.yonghuivip.com/backend/pay-cashier-center" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.yonghuivip.com" />
+          <option name="userName" value="hukaihao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ws_work" />
