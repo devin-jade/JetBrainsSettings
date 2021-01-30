@@ -238,9 +238,17 @@
           <option name="url" value="http://123.59.47.88/backend/wms-inv-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://123.59.47.88/backend/token-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://123.59.47.88/backend/id-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\ws_work" />
+    <option name="cloneParentDir" value="$USER_HOME$/ws_work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
