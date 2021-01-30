@@ -246,6 +246,10 @@
           <option name="url" value="http://123.59.47.88/backend/id-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://123.59.47.88/backend/api-rest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ws_work" />
