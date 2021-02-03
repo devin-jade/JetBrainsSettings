@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分" />
       <item value="Cache Can Increase Helper" />
       <item value="eligible" />
       <item value="instantiation" />
@@ -50,12 +51,11 @@
       <item value="Finally, invoke all other BeanDefinitionRegistryPostProcessors until no further ones appear" />
       <item value="Separate between BeanDefinitionRegistryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
       <item value="Separate between BeanDefinitionRegistryPostProcessors that implement // PriorityOrdered, Ordered, and the rest" />
-      <item value="Interface for registries that hold bean definitions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="60" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611729353449" />
+    <option name="lastTrimTime" value="1612320406342" />
   </component>
 </application>
