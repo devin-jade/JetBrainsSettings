@@ -8,8 +8,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*daoImpl.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
